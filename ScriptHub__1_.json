@@ -9,9 +9,9 @@
     },
     {
       "title": "CMD-X",
-      "description": "Sadly this was discontinued",
-      "author": "CriShoux",
-      "imageURL": "https://cdn.discordapp.com/attachments/915887401623253002/926810991247888384/OWL_HUB_BANNER.png",
+      "description": "FE Admin",
+      "author": "hz",
+      "imageURL": "https://cdn.discordapp.com/attachments/920343041791905823/926899261835190293/CMD_X.png",
       "scriptURLRaw": "loadstring(game:HttpGet(https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source))()"
     },
   ],
