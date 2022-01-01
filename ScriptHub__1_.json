@@ -5,7 +5,7 @@
       "description": "FE Admin",
       "author": "hz",
       "imageURL": "",
-      "scriptURLRaw": "", true))() loadstring(game:HttpGet('https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source'))()"
+      "scriptURLRaw": "loadstring(game:HttpGet('https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source'))()"
     },
     
     {
