@@ -1,22 +1,6 @@
 {
   "scripts": [
-    {
-      "title": "CMD-X",
-      "description": "FE Admin",
-      "author": "hz",
-      "imageURL": "",
-      "scriptURLRaw": "loadstring(game:HttpGet('https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source'))()"
-    },
     
-    {
-      "title": "Infinite Yield",
-      "description": "FE Admin",
-      "author": "Edge",
-      "imageURL": "https://cdn.discordapp.com/attachments/915887401623253002/926816609736220732/infinite_yield.png",
-      "scriptURLRaw": "loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()"
-    },
-    
-    {
       "title": "Owl Hub",
       "description": "Sadly this was discontinued",
       "author": "CriShoux",
