@@ -8,14 +8,14 @@
       "scriptURLRaw": "https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt"
     },
     {
-      "title": "CMD-X",
-      "description": "FE Admin",
-      "author": "hz",
-      "imageURL": "https://cdn.discordapp.com/attachments/920343041791905823/926899261835190293/CMD_X.png",
-      "scriptURLRaw": "https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source"
+      "title": "Bee swarm simulator",
+      "description": "A script for Bee swarm simulator",
+      "author": "AltsegoD",
+      "imageURL": "https://cdn.discordapp.com/attachments/894881638968873010/938388758066266152/Jpeg.png",
+      "scriptURLRaw": "https://raw.githubusercontent.com/AltsegoD/script/master/BeeSwarmSimulator.lua"
     },
     {
-      "title": "Dex Explorer",
+      "title": "",
       "description": "Good for script developers",
       "author": "Moon",
       "imageURL": "https://cdn.discordapp.com/attachments/920343041791905823/926920259561226290/b89d5c8f16837504f68d228333a0350b.png",
